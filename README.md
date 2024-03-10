@@ -42,15 +42,14 @@ while True:
 ```
 ## OUPUT
 # client
-```
+
 ![Screenshot 2024-03-10 230737 - Copy](https://github.com/BaskarUmapathi/2b_SLIDING_WINDOW_PROTOCOL/assets/151434098/6cb64ef1-dfa4-40de-a040-830f4ce4df39)
 
-```
+
 # server
-```
+
 ![Screenshot 2024-03-10 230737 - Copy](https://github.com/BaskarUmapathi/2b_SLIDING_WINDOW_PROTOCOL/assets/151434098/4f0adad4-e3a0-490f-9c3b-f5ee30f13aee)
 
-```
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
