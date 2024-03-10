@@ -48,7 +48,7 @@ while True:
 
 # server
 
-![Screenshot 2024-03-10 230737 - Copy](https://github.com/BaskarUmapathi/2b_SLIDING_WINDOW_PROTOCOL/assets/151434098/4f0adad4-e3a0-490f-9c3b-f5ee30f13aee)
+![Screenshot 2024-03-10 230747](https://github.com/BaskarUmapathi/2b_SLIDING_WINDOW_PROTOCOL/assets/151434098/92a6110a-6ca7-4ee1-a4de-8dcee43a7c7e)
 
 
 ## RESULT
